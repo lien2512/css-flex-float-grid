@@ -1,0 +1,21 @@
+table {
+  width: 40%;
+  border: 0.12rem solid #5d5d5d;
+  border-collapse: collapse;
+}
+table tr {
+  border: 0.12rem solid #5d5d5d;
+  border-collapse: collapse;
+}
+table tr th {
+  height: 40px;
+  border: 0.12rem solid #5d5d5d;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+/*# sourceMappingURL=style.css.map */
